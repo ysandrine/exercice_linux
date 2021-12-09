@@ -8,3 +8,4 @@ Ceci est un bloc de code
 ```
 
 Et pour finir, voici [un lien] (https://mail.google.com/mail/u/1/#sent/KtbxLxGkNcnzTllpRxlDPfpTtxcsRbHrXq) pour devenir ub as du markdown
+C'est tout pour les bases du Markdown.
